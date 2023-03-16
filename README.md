@@ -17,6 +17,23 @@
 ## Metodologías agiles 
 SCRUM
 
+
+## Estos son los comandos que más uso 
+
+| Comando | Descripción |
+| -------- | ----------- |
+| pwd| Dirección actual |
+| ls| Listar contenido de un directorio |
+| touch| Crear un archivo |
+| cd| Moverme entre directorios |
+| code .| Abrir el directorio en vsc |
+
+
+| Alias | Descripción |
+| -------- | ----------- |
+| intellij .| Abrir el directorio en intellij |
+
+
 ## Contacto 🤭
 
 [![](https://icongr.am/devicon/linkedin-original.svg?size=34&color=d4b5b5)](https://www.linkedin.com/in/stephany-castro-salas-03a001172/)
