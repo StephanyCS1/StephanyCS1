@@ -1,4 +1,4 @@
-# Hola soy Stephany Castro, (Tefis 😁)
+# Hola soy Stephany Castro Salas, (Tefis 😁)
 
 #### Estoy iniciando en desarrollo, participe en un curso de fundamentos de programación en MINTIC, donde desarrollamos pequeños proyectos.
 
