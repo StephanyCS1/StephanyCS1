@@ -1,9 +1,11 @@
 # Hola soy Stephany Castro Salas, (Tefis 😁)
 
-#### He participado en fundamentos de programación en "MINTIC", donde desarrollamos proyectos usando diferentes tecnologías y metodologías ágiles
-### Estoy en búsqueda de mis primeras experiencias laborales.
+#### Soy ingeniera ambiental especializada en QHSE y SST. He vuelto a mi verdadera pasión: el
+#### desarrollo de software y web. Soy una persona creativa y adaptable, apasionada por los desafíosyel aprendizaje. 
+#### Tengo experiencia en Java, Spring Boot, JavaScript, Node.js, React, MySQLymetodologías ágiles. 
+####  Utilizo herramientas como Jira y GitLab para gestionar proyectoseficientemente. Estoy emocionada por contribuir y crecer en este emocionante campo tecnológico.
 
-
+### Actualmente estoy participando en el desarrollo de proyectos con NoCountry
 
 ## Conocimientos en estos lenguajes y herramientas 🥺
 [![](https://icongr.am/devicon/java-original.svg?size=50&color=currentColor)](www.java.com)
@@ -17,22 +19,6 @@
 
 ## Metodologías agiles 
 SCRUM
-
-
-## Estos son los comandos que más uso 
-
-| Comando | Descripción |
-| -------- | ----------- |
-| pwd| Dirección actual |
-| ls| Listar contenido de un directorio |
-| touch| Crear un archivo |
-| cd| Moverme entre directorios |
-| code .| Abrir el directorio en vsc |
-
-
-| Alias | Descripción |
-| -------- | ----------- |
-| intellij .| Abrir el directorio en intellij |
 
 
 ## Contacto 🤭
