@@ -1,8 +1,8 @@
 # Hola soy Stephany Castro Salas, (Tefis 😁)
 
 #### Soy ingeniera ambiental especializada en QHSE y SST. He vuelto a mi verdadera pasión: el desarrollo de software y web. Soy una persona creativa y adaptable, 
-#### apasionada por los desafíosyel aprendizaje. Tengo experiencia en Java, Spring Boot, JavaScript, Node.js, React, MySQLymetodologías ágiles. 
-####  Utilizo herramientas como Jira y GitLab para gestionar proyectoseficientemente. Estoy emocionada por contribuir y crecer en este emocionante campo tecnológico.
+#### apasionada por los desafíosyel aprendizaje. Tengo experiencia en Java, Spring Boot, JavaScript, Node.js, React, MySQLymetodologías ágiles.Utilizo herramientas como Jira y 
+#### GitLab para gestionar proyectoseficientemente. Estoy emocionada por contribuir y crecer en este emocionante campo tecnológico.
 
 ### Actualmente estoy participando en el desarrollo de proyectos con NoCountry
 
