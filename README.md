@@ -1,8 +1,15 @@
 # Hola soy Stephany Castro Salas, (Tefis 😁)
 
-#### Soy ingeniera ambiental especializada en QHSE y SST. He vuelto a mi verdadera pasión: el desarrollo de software y web. Soy una persona creativa y adaptable, apasionada por los desafíosyel aprendizaje. Tengo experiencia en Java, Spring Boot, JavaScript, Node.js, React, MySQLymetodologías ágiles.Utilizo herramientas como Jira y GitLab para gestionar proyectoseficientemente. Estoy emocionada por contribuir y crecer en este emocionante campo tecnológico.
+### Soy una desarrolladora Java con sólidos conocimientos en Java, Spring Boot, JavaScript, Node.js, React, MySQL y metodologías ágiles.
 
-### Actualmente estoy participando en el desarrollo de proyectos con NoCountry
+### Mi formación en ingeniería ambiental y especialización en SST y QHSE me brindan una perspectiva única para abordar proyectos tecnológicos con un enfoque en la sostenibilidad, la seguridad y la calidad, ahora enfocada en el desarrollo JAVA, considero que soy una persona dinámica y creativa, me adapto fácil, me gustan los retos y aprender.
+
+### Utilizo herramientas como Jira y GitLab para gestionar proyectos eficientemente, tengo conocimientos en las ceremonias SCRUM.
+
+### Actualmente estoy participando activamente en proyectos con NO COUNTRY
+
+### Estoy emocionada por contribuir y crecer en este emocionante campo tecnológico.
+
 
 ## Conocimientos en estos lenguajes y herramientas 🥺
 [![](https://icongr.am/devicon/java-original.svg?size=50&color=currentColor)](www.java.com)
@@ -13,9 +20,6 @@
 [![](https://icongr.am/devicon/mongodb-original.svg?size=34&color=d4b5b5)](https://www.mongodb.com/)
 [![](https://icongr.am/devicon/mysql-original-wordmark.svg?size=34&color=d4b5b5
 )](https://www.mysql.com/)
-
-## Metodologías agiles 
-SCRUM
 
 
 ## Contacto 🤭
