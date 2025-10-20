@@ -1,28 +1,56 @@
-# Hola soy Stephany Castro Salas, (Tefis 😁)
+# ¡Hola! Soy Stephany Castro Salas 👋
 
-### Soy una desarrolladora Java con sólidos conocimientos en Java, Spring Boot, JavaScript, Node.js, React, MySQL y metodologías ágiles.
+### Backend Developer | Especialista en Java & Spring Boot | Cloud & Microservices
 
-### Mi formación en ingeniería ambiental y especialización en SST y QHSE me brindan una perspectiva única para abordar proyectos tecnológicos con un enfoque en la sostenibilidad, la seguridad y la calidad, ahora enfocada en el desarrollo JAVA, considero que soy una persona dinámica y creativa, me adapto fácil, me gustan los retos y aprender.
+Desarrolladora Backend con experiencia robusta en Java (7 a 17), Spring Boot, MySQL, AWS y arquitectura de microservicios. He trabajado integrando APIs bancarias, desarrollando servicios escalables y automatizando flujos de pagos críticos. Mi enfoque combina la excelencia técnica con un fuerte compromiso por la calidad, la documentación clara y el trabajo colaborativo.
 
-### Utilizo herramientas como Jira y GitLab para gestionar proyectos eficientemente, tengo conocimientos en las ceremonias SCRUM.
+He trabajado liderando el desarrollo backend de una billetera digital para Taxis Libres (Bimoney), implementando integraciones bancarias clave (Bancolombia utilizando cifrado PGP) y con pasarelas de pagos (Cobre) para gestionar pagos masivos y transacciones en tiempo real.
 
-### Actualmente estoy participando activamente en proyectos con NO COUNTRY
+Mi experiencia incluye:
+* Integración y procesamiento de datos con AWS Glue y Google BigQuery, así como en la generación de dashboards con la información analizada.
+* Diseño de endpoints RESTful y contribución a la interoperabilidad entre microservicios y sistemas externos.
+* Trabajo con bases de datos MySQL y despliegues sobre infraestructura AWS.
 
-### Estoy emocionada por contribuir y crecer en este emocionante campo tecnológico.
+Actualmente, estoy profundizando mis conocimientos con una **Especialización en Desarrollo de Software** y cuento con una **Especialización Backend de Oracle Next Education / Alura LATAM**. Busco desafíos que me permitan aplicar tecnologías modernas y escalar productos reales.
 
+***
 
-## Conocimientos en estos lenguajes y herramientas 🥺
-[![](https://icongr.am/devicon/java-original.svg?size=50&color=currentColor)](www.java.com)
-[![](https://icongr.am/devicon/javascript-original.svg?size=34&color=currentColor)](https://developer.mozilla.org/es/docs/Web/JavaScript)
-[![](https://icongr.am/devicon/html5-original.svg?size=34&color=currentColor)](https://developer.mozilla.org/es/docs/Web/HTML)
-[![](https://icongr.am/devicon/github-original-wordmark.svg?size=34&color=d4b5b5)](https://github.com)
-[![](https://icongr.am/devicon/gitlab-original.svg?size=34&color=d4b5b5)](https://about.gitlab.com/)
-[![](https://icongr.am/devicon/mongodb-original.svg?size=34&color=d4b5b5)](https://www.mongodb.com/)
-[![](https://icongr.am/devicon/mysql-original-wordmark.svg?size=34&color=d4b5b5
-)](https://www.mysql.com/)
+## 🛠 Tecnologías y Herramientas 💻
 
+Mi especialidad es el **Backend**, pero cuento con versatilidad en el **Fullstack**.
 
-## Contacto 🤭
+| Backend & Cloud | Bases de Datos | Frontend | Herramientas |
+| :---: | :---: | :---: | :---: |
+| **Java (7-17)** | **MySQL** | React | Jira |
+| **Spring Boot** | **MongoDB** | Angular | Git / GitLab CI/CD |
+| Hibernate | **BigQuery** | React Native | Postman / Swagger |
+| Node.js | | HTML/CSS | Docker (básico) |
+| **AWS** (S3, EC2, **Glue**) | | | Metodologías Ágiles/SCRUM |
 
-[![](https://icongr.am/devicon/linkedin-original.svg?size=34&color=d4b5b5)](https://www.linkedin.com/in/stephany-castro-salas-03a001172/)
+[![](https://icongr.am/devicon/java-original.svg?size=45&color=currentColor)](https://www.java.com)
+[![](https://icongr.am/devicon/spring-original.svg?size=45&color=currentColor)](https://spring.io/)
+[![](https://icongr.am/devicon/amazonwebservices-original.svg?size=45&color=currentColor)](https://aws.amazon.com/)
+[![](https://icongr.am/devicon/mysql-original-wordmark.svg?size=45&color=currentColor)](https://www.mysql.com/)
+[![](https://icongr.am/devicon/git-original.svg?size=45&color=currentColor)](https://git-scm.com/)
+[![](https://icongr.am/devicon/docker-original.svg?size=45&color=currentColor)](https://www.docker.com/)
+
+***
+
+## 🚀 Lo que me diferencia
+
+Me adapto con facilidad a proyectos modernos y legados, tengo una mentalidad enfocada en la **mejora continua** y aprendizaje autónomo.
+
+* **Compromiso con la Calidad:** Creación de soluciones funcionales con enfoque en calidad y sostenibilidad.
+* **Habilidades Interpersonales:** Fuertes dotes de documentación técnica y trabajo colaborativo.
+
+***
+
+## 📞 Contacto
+
+| :point_right: | Información |
+| :---: | :---: |
+| **LinkedIn** | [linkedin.com/in/stephany-castro-salas](https://www.linkedin.com/in/stephany-castro-salas) |
+| **Email** | stephanycastrosalas@gmail.com |
+
+[![](https://icongr.am/devicon/linkedin-original.svg?size=34&color=d4b5b5)](https://www.linkedin.com/in/stephany-castro-salas)
 [![](https://icongr.am/devicon/github-original-wordmark.svg?size=34&color=d4b5b5)](https://github.com/StephanyCS1)
